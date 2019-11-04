@@ -1,0 +1,12 @@
+html{
+    background: url(Images/9.png);
+}
+body{
+    background: url(Images/3.png) center no-repeat;
+    text-align: center;
+    color: white;
+    font-size: 5em;
+}
+#Logo{
+    display: none;
+}
