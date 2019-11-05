@@ -1,12 +1,13 @@
 html{
-    background: url(Images/9.png);
+    background: url(Images/html_background.png ) center 100% fixed;
 }
 body{
-    background: url(Images/3.png) center no-repeat;
+    background: url(Images/body_background.png) center no-repeat;
     text-align: center;
     color: white;
-    font-size: 5em;
+    font-size: 1.7em;
+    float: left;
 }
 #Logo{
     display: none;
-}
+} 
